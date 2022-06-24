@@ -4,8 +4,6 @@ Hi 👋 My name is Claudiu Sava
 Python Dev and \*almost\* a Pentester
 -------------------------------------
 
-I'm curently learnig python and Cyber Security. Youtube is my only theacher.
-
 * 🌍  I'm based in Swiss, Thurgau
 * ✉️  You can contact me at [claudiu.sava@protonmail.com](mailto:claudiu.sava@protonmail.com)
 * 🧠  I'm learning Python and Cyber Security (Networking)
