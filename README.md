@@ -6,7 +6,7 @@ Python Dev and \*almost\* a Pentester
 
 * 🌍  I'm based in Swiss, Thurgau
 * ✉️  You can contact me at [claudiu.sava@protonmail.com](mailto:claudiu.sava@protonmail.com)
-* 🧠  I'm learning Python and Cyber Security (Networking)
+* 🧠  I'm learning Python, Kotin and Cyber Security (Networking)
 * 🤝  I'm open to collaborating on GitHub
 * ⚡  Give a man a program, and you frustrate him for a day. Teach a man to program, and you frustrate him for a lifetime.
 
