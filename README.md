@@ -1,7 +1,7 @@
 Hi 👋 My name is Claudiu Sava
 =============================
 
-Python Dev and \*almost\* a Pentester
+Python Scripter and future Android Dev
 -------------------------------------
 
 * 🌍  I'm based in Swiss, Thurgau
