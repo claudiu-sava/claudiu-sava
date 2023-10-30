@@ -1,7 +1,7 @@
 Hi 👋 My name is Claudiu Sava
 =============================
 
-Python Scripter and future Android Dev
+Python Scripter and future Web Dev
 -------------------------------------
 
 * 🌍  I'm based in Swiss, Thurgau
