@@ -1,11 +1,11 @@
 Hi 👋 My name is Claudiu Sava
 =============================
 
-Python Scripter and future Web Dev
+Python Scripter and future Cyber Defence Engineer
 -------------------------------------
 
 * 🌍  I'm based in Swiss, Thurgau
-* ✉️  You can contact me at [claudiu.sava@protonmail.com](mailto:claudiu.sava@protonmail.com)
+* ✉️  You can contact me at claudiu.sava[at]protonmail[dot]com
 * 🧠  I'm learning Python, Java and Cyber Security (Networking)
 * 🤝  I'm open to collaborating on GitHub
 * ⚡  Give a man a program, and you frustrate him for a day. Teach a man to program, and you frustrate him for a lifetime.
@@ -17,9 +17,6 @@ Python Scripter and future Web Dev
 <a href="https://www.java.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
 </p>
 
-### Socials
-
-<p align="left"> <a href="https://www.github.com/claudiu-sava" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/claudiu.sava03" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a></p>
 ### Badges
 
 <b>My GitHub Stats</b>
